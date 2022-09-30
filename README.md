@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakush&label=Profile%20views&color=0e75b6&style=flat" alt="hakush" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakush" alt="hakush" /></a> </p>
-
 - 🔭 I’m currently working on **my portfolio and finishing my degree**
 
 - 🌱 I’m currently learning **HTML,CSS(bootstrap),JS(Angular),C**
