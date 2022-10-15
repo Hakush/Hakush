@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **my portfolio and finishing my degree**
 
-- 🌱 I’m currently learning **HTML,CSS(bootstrap),JS(Angular),C**
+- 🌱 I’m learning **HTML,CSS(bootstrap),JS(Angular),C**
 
 - 📫 How to reach me **facundo.sharry@gmail.com**
 
-- 📄 Know about my experiences [Todo: create repository with pdf file](Todo: create repository with pdf file)
+- 📄 Know about my experiences at my resumee
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
