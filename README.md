@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
-<h3 align="center">A Computer Science Student and FrontEnd Developer in progress from Cordoba,Argentina.</h3>
+<h3 align="center">A Computer Science Student and Fullstack web Developer in progress from Cordoba,Argentina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakush&label=Profile%20views&color=0e75b6&style=flat" alt="hakush" /> </p>
 
