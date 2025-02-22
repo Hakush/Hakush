@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **a web developer** and im finishing my degree
 
-- 🌱 I’m learning **Bootstrap, Angular, Java(Springboot), C and mostly JavaScript and PHP**
+- 🌱 I’m learning **Angular and Laravel**
 
 - 📫 How to reach me **facundo.sharry@gmail.com**
 
